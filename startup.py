@@ -1,1 +1,5 @@
-print('hello')
+import os
+
+Minercraft=os.getenv()
+
+
